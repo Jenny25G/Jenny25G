@@ -1,4 +1,4 @@
-[![MasterHead](https://images.wallpaperscraft.com/image/single/keyboard_laptop_gradient_203739_2560x1024.jpg)](https://rishavchanda.io)
+[![MasterHead](https://images.wallpaperscraft.com/image/single/keyboard_telephone_desktop_179668_2560x1080.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shirlyn Jenita</h1>
 <h3 align="center">A Computer Science Aficionado</h3>
 <img align="right" alt="Coding" width="400" src="https://vidhi-mody.github.io/img/contribute.gif">
