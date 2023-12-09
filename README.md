@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shirlynjenita@gmail.com**
 
-- ⚡ Fun fact **loves Animie characters more**
+- ⚡ Fun fact **loves being caffeinated more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
