@@ -3,9 +3,9 @@
 <h3 align="center">A Computer Science Aficionado</h3>
 <img align="right" alt="Coding" width="400" src="https://vidhi-mody.github.io/img/contribute.gif">
 
-- 🌱 I’m currently learning **Deep learning algorithms**
+- 🌱 I’m currently learning **Cybersecurity**
 
-- 💬 Ask me about **Machine Learning and Artificial Intelligence**
+- 💬 Ask me about **Latest Security trends**
 
 - 📫 How to reach me **shirlynjenita@gmail.com**
 
